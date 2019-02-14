@@ -2,6 +2,7 @@
 # The algorithm is based on comparing the two neighboring values and swapping them if they're in the wrong order
 # More at https://www.geeksforgeeks.org/bubble-sort/
 
+
 data = [5, 2, 8, 1, 9, 22, 3]
 print('Unsorted:', data)
 n = len(data)
