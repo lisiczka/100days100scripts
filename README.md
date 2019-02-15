@@ -3,3 +3,4 @@ I've challenged myself to code more and better. The idea is to write minimum 1 p
 
 Day1 - Fibonacci sequence
 Day2 - Bubble sort algorithm
+Day3 - Collatz sequence (recursion)
