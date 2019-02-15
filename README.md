@@ -5,4 +5,5 @@ It's not about big, complex projects but a way to keep myself curious and motiva
 Day1 - Fibonacci sequence
 <br>
 Day2 - Bubble sort algorithm
+<br>
 Day3 - Collatz sequence (recursion)
