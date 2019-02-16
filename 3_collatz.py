@@ -2,8 +2,7 @@
 # A script dealing with the "Collatz" sequence.
 # If the given umber is even, return (number // 2), if it's odd, return (3 * number + 1). 
 # Keep the value of the 'number' for the recursion.
-# I've never used recursion before so writing and understanding 
-# this piece of code took me a while.
+# I've never used recursion before so writing and understanding this piece of code took me a while.
 
 
 def collatz(number):
