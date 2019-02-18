@@ -9,3 +9,5 @@ Day2 - Bubble sort algorithm
 Day3 - Collatz sequence (recursion)
 <br>
 Day4 - Simple calculator function
+<br>
+Day5 - Web scraper
