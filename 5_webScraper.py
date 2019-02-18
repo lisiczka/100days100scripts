@@ -1,7 +1,7 @@
 # A simple way to get some data from Facebook without using it's paid API.
 # "Requests" and "BeutifulSoup" are the libraries made for such tasks.
 # Data mining and it's autoamtion is fun and challenging the same time.
-# Websites like FB try to prevent such actions randomizing HTML tags.
+# Websites like FB try to prevent such actions by randomizing HTML tags.
 # Here come regular expressions that help us selecting the desireable content.
 
 import requests
